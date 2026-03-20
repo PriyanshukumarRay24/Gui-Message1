@@ -62,4 +62,4 @@ User opens app
 
 ## 📄 License
 
-Free to use, share, and spread love. 💕
+Free to use, share, and spread love. 
